@@ -1,7 +1,7 @@
 # pairsamtools
 
 
-# NOTICE: pairsamtools was renamed and this repo exists for legacy purposes. Please migrate to the [pairtools](https://github.com/mirnylab/pairtools) project.
+# NOTICE [7/2018]: pairsamtools was renamed and this repo exists for legacy purposes. Please migrate to the [pairtools](https://github.com/mirnylab/pairtools) project.
 
 [![Documentation Status](https://readthedocs.org/projects/pairsamtools/badge/?version=latest)](http://pairsamtools.readthedocs.org/en/latest/)
 [![Build Status](https://travis-ci.org/mirnylab/pairsamtools.svg?branch=master)](https://travis-ci.org/mirnylab/pairsamtools)
